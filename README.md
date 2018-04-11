@@ -1,6 +1,6 @@
 # AndroidPermissionControlCenter
 
-********************************---##  源码是最好的文档 ##---******************************************
+********************************************源码是最好的文档 *****************************************************
 
 
 项目说明：
@@ -46,7 +46,7 @@ dependencies {
 
 
 
-********************************---## 源码是最好的文档 ##---******************************************
+********************************************分割线 *********************************************************
 
 android权限备忘：
 
@@ -54,82 +54,148 @@ android权限备忘：
 
 联系人权限组：
 group:android.permission-group.CONTACTS
+
   permission:android.permission.WRITE_CONTACTS
+
   permission:android.permission.GET_ACCOUNTS
+
   permission:android.permission.READ_CONTACTS
+
 电话权限组：
 group:android.permission-group.PHONE
+
   permission:android.permission.READ_CALL_LOG
+
   permission:android.permission.READ_PHONE_STATE
+
   permission:android.permission.CALL_PHONE
+
   permission:android.permission.WRITE_CALL_LOG
+
   permission:android.permission.USE_SIP
+
   permission:android.permission.PROCESS_OUTGOING_CALLS
+
   permission:com.android.voicemail.permission.ADD_VOICEMAIL
+
 日历权限组：
 group:android.permission-group.CALENDAR
+
   permission:android.permission.READ_CALENDAR
+
   permission:android.permission.WRITE_CALENDAR
+
 相机权限组：
 group:android.permission-group.CAMERA
+
   permission:android.permission.CAMERA
+
 传感器权限组：
 group:android.permission-group.SENSORS
+
   permission:android.permission.BODY_SENSORS
+
 定位权限组：
 group:android.permission-group.LOCATION
+
   permission:android.permission.ACCESS_FINE_LOCATION
+
   permission:android.permission.ACCESS_COARSE_LOCATION
+
 存储权限组：
 group:android.permission-group.STORAGE
+
   permission:android.permission.READ_EXTERNAL_STORAGE
+
   permission:android.permission.WRITE_EXTERNAL_STORAGE
+
 麦克风权限组：
 group:android.permission-group.MICROPHONE
+
   permission:android.permission.RECORD_AUDIO
+
 短信权限组：
 group:android.permission-group.SMS
+
   permission:android.permission.READ_SMS
+
   permission:android.permission.RECEIVE_WAP_PUSH
+
   permission:android.permission.RECEIVE_MMS
+
   permission:android.permission.RECEIVE_SMS
+
   permission:android.permission.SEND_SMS
+
   permission:android.permission.READ_CELL_BROADCASTS
 
 普通权限：
+
 ACCESS_LOCATION_EXTRA_COMMANDS
+
 ACCESS_NETWORK_STATE
+
 ACCESS_NOTIFICATION_POLICY
+
 ACCESS_WIFI_STATE
+
 BLUETOOTH
+
 BLUETOOTH_ADMIN
+
 BROADCAST_STICKY
+
 CHANGE_NETWORK_STATE
+
 CHANGE_WIFI_MULTICAST_STATE
+
 CHANGE_WIFI_STATE
+
 DISABLE_KEYGUARD
+
 EXPAND_STATUS_BAR
+
 GET_PACKAGE_SIZE
+
 INSTALL_SHORTCUT
+
 INTERNET
+
 KILL_BACKGROUND_PROCESSES
+
 MODIFY_AUDIO_SETTINGS
+
 NFC
+
 READ_SYNC_SETTINGS
+
 READ_SYNC_STATS
+
 RECEIVE_BOOT_COMPLETED
+
 REORDER_TASKS
+
 REQUEST_INSTALL_PACKAGES
+
 SET_ALARM
+
 SET_TIME_ZONE
+
 SET_WALLPAPER
+
 SET_WALLPAPER_HINTS
+
 TRANSMIT_IR
+
 UNINSTALL_SHORTCUT
+
 USE_FINGERPRINT
+
 VIBRATE
+
 WAKE_LOCK
+
 WRITE_SYNC_SETTINGS
 
 
-********************************************* 分割线 ************************************************************
+********************************************* 源码是最好的文档 ***************************************************

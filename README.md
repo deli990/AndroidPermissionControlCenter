@@ -1,0 +1,2 @@
+# AndroidPermissionControlCenter
+帮助android开发者解决andorid 6.0运行时动态权限申请的专用库

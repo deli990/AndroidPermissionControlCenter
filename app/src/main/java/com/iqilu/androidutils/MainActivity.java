@@ -39,4 +39,10 @@ public class MainActivity extends AndroidPermissionControlCenter implements View
                 break;
         }
     }
+
+    @Override
+    protected void showPermissionGrantedDeniedDialog() {
+        super.showPermissionGrantedDeniedDialog();
+        //此处可以自定义Dialog
+    }
 }

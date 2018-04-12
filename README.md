@@ -44,6 +44,14 @@ dependencies {
 	        compile 'com.github.deli990:AndroidPermissionControlCenter:v1.0.0'
 	}
 
+第三步，在需要进行动态权限申请的activity extends AndroidPermissionControlCenter 
+
+必须实现一个方法：onPermissionGranted（） 可选覆写：showPermissionGrantedDeniedDialog() 对权限被拒绝后弹出Dialog自己定
+
+义即可。不覆写默认为Demo中的alerDialog。
+
+
+
 
 
 ********************************************分割线 *********************************************************
